@@ -1,4 +1,3 @@
-# full_screen[index.html](https://github.com/user-attachments/files/22123803/index.html)
 <!DOCTYPE html>
 <html lang="ko">
 <head>
